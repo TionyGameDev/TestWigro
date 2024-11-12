@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d49f88e8-e823-40a1-9922-fe22726cbe62" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://Z:/Test/TestWigro/Assets/Scripts/UI/MVC/BaseController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://Z:/Test/TestWigro/Assets/Scripts/UI/MVC/BaseController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://Z:/Test/TestWigro/Assets/Scripts/UI/MVC/BaseController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F7237CF7-ABEF-49BF-BB55-2D7EB076E422/0a/4d5e3199/Camera.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://Z:/Test/TestWigro/Assets/Scripts/UI/MVC/BaseController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://Z:/Test/TestWigro/Assets/Scripts/UI/MVC/BaseController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://Z:/Test/TestWigro/Assets/Scripts/UI/MVC/BaseController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://Z:/Test/TestWigro/Assets/Scripts/UI/MVC/BaseController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F7237CF7-ABEF-49BF-BB55-2D7EB076E422/3d/9c028e93/Component.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://Z:/Test/TestWigro/Assets/Scripts/UI/MVC/BaseController.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Popups/MainHubController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Infrastructure/Loader/IAssetsProvider.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Popups/UIMainHub.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Infrastructure/Singleton/Singleton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Infrastructure/Loader/ResourcesLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/UIManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Infrastructure/FSM/GameState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Infrastructure/GameSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Instruments/ToggleSetting.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/MVC/IController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Popups/UISettingController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Popups/UISetting.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shop/ShopItemView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Instruments/IUIClass.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Instruments/ToggleUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Popups/BaseUICollection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/UICoillection/UIElement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/UICoillection/UiDrawer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/UICoillection/BaseUICollection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/UICoillection/Drawer/UiDrawer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Popups/UIShopController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Infrastructure/FSM/Factory/GameFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Infrastructure/Game.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Infrastructure/FSM/StartGameStateMachine.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Popups/UIShop.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/UICoillection/UICollection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Popups/Shop/ShopItemView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Popups/Setting/UISettingController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Popups/Setting/UISetting.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shop/ShopItems.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Popups/Shop/UIShopController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/UIMainHub.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/MVC/BaseController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Popups/Dialog/UIDialogController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Popups/Shop/UIShop.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shop/ShopItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Popups/Dialog/UIDialog.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/MVC/IViewer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Managers/UIManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Infrastructure/FSM/States/FinishGameState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Infrastructure/FSM/States/GameLoopState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Infrastructure/FSM/States/LoadGameState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Infrastructure/FSM/States/BootstrapState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/MVC/BaseViewer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/MVC/IPopup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Infrastructure/FSM/Factory/IGameFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Infrastructure/FSM/FSM.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Infrastructure/FSM/IState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Infrastructure/Services/AllServices.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Infrastructure/GameBootstrapper.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Setting/GameSettings.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ohcf5R95FIyZy6EBLjTmuh9Gpq" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d49f88e8-e823-40a1-9922-fe22726cbe62" name="Default Changelist" comment="" />
+      <created>1731325350836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731325350836</updated>
+      <workItem from="1731325353680" duration="24486000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1114" y="401" key="RiderGenerateDialog" timestamp="1731403073801">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1114" y="401" key="RiderGenerateDialog/0.0.2560.1400/2560.257.1536.864@0.0.2560.1400" timestamp="1731403073801" />
+    <state x="-16" y="307" width="2376" height="1216" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1731344259195">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="-16" y="307" width="2376" height="1216" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.2560.1400/2560.257.1536.864@0.0.2560.1400" timestamp="1731344259195" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1731403277480">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/2560.257.1536.864@0.0.2560.1400" timestamp="1731403277480" />
+  </component>
+</project>

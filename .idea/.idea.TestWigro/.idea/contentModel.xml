@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Marseille\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Marseille\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_TestWigro.-191566326.00" t="ExcludeRecursive" />
+    <e p="Z:\Test\TestWigro" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Infrastructure" t="Include">
+            <e p="FSM" t="Include">
+              <e p="Factory" t="Include">
+                <e p="GameFactory.cs" t="Include" />
+                <e p="IGameFactory.cs" t="Include" />
+              </e>
+              <e p="FSM.cs" t="Include" />
+              <e p="FSMBuilder.cs" t="Include" />
+              <e p="GameState.cs" t="Include" />
+              <e p="IFSM.cs" t="Include" />
+              <e p="IState.cs" t="Include" />
+              <e p="StartGameStateMachine.cs" t="Include" />
+              <e p="States" t="Include">
+                <e p="BootstrapState.cs" t="Include" />
+                <e p="FinishGameState.cs" t="Include" />
+                <e p="GameLoopState.cs" t="Include" />
+                <e p="LoadGameState.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Game.cs" t="Include" />
+            <e p="GameBootstrapper.cs" t="Include" />
+            <e p="Loader" t="Include">
+              <e p="IAssetsProvider.cs" t="Include" />
+              <e p="ResourcesLoader.cs" t="Include" />
+            </e>
+            <e p="Services" t="Include">
+              <e p="AllServices.cs" t="Include" />
+              <e p="IService.cs" t="Include" />
+            </e>
+            <e p="Singleton" t="Include">
+              <e p="Singleton.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Setting" t="Include">
+            <e p="GameSettings.cs" t="Include" />
+          </e>
+          <e p="Shop" t="Include">
+            <e p="ShopItem.cs" t="Include" />
+            <e p="ShopItems.cs" t="Include" />
+          </e>
+          <e p="UI" t="Include">
+            <e p="Instruments" t="Include">
+              <e p="IUIClass.cs" t="Include" />
+              <e p="ToggleUI.cs" t="Include" />
+            </e>
+            <e p="Managers" t="Include">
+              <e p="UIManager.cs" t="Include" />
+            </e>
+            <e p="MVC" t="Include">
+              <e p="BaseController.cs" t="Include" />
+              <e p="BaseViewer.cs" t="Include" />
+              <e p="IController.cs" t="Include" />
+              <e p="IViewer.cs" t="Include" />
+            </e>
+            <e p="Popups" t="Include">
+              <e p="Dialog" t="Include">
+                <e p="UIDialog.cs" t="Include" />
+                <e p="UIDialogController.cs" t="Include" />
+              </e>
+              <e p="Setting" t="Include">
+                <e p="UISetting.cs" t="Include" />
+                <e p="UISettingController.cs" t="Include" />
+              </e>
+              <e p="Shop" t="Include">
+                <e p="ShopItemView.cs" t="Include" />
+                <e p="UIShop.cs" t="Include" />
+                <e p="UIShopController.cs" t="Include" />
+              </e>
+            </e>
+            <e p="UICoillection" t="Include">
+              <e p="BaseUICollection.cs" t="Include" />
+              <e p="Drawer" t="Include">
+                <e p="UiDrawer.cs" t="Include" />
+              </e>
+              <e p="UICollection.cs" t="Include" />
+              <e p="UiDrawer.cs" t="Include" />
+              <e p="UIElement.cs" t="Include" />
+            </e>
+            <e p="UIMainHub.cs" t="Include" />
+          </e>
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+            <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+            <e p="TMP_Bitmap.shader" t="Include" />
+            <e p="TMP_SDF Overlay.shader" t="Include" />
+            <e p="TMP_SDF SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+            <e p="TMP_SDF-Mobile SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface.shader" t="Include" />
+            <e p="TMP_SDF.shader" t="Include" />
+            <e p="TMP_Sprite.shader" t="Include" />
+            <e p="TMPro.cginc" t="Include" />
+            <e p="TMPro_Mobile.cginc" t="Include" />
+            <e p="TMPro_Properties.cginc" t="Include" />
+            <e p="TMPro_Surface.cginc" t="Include" />
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+            <e p="EmojiOne.json" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+      <e p="TestWigro.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
